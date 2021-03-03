@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>uix/Home.qml</file>
+        <file>uix/Settings.qml</file>
+        <file>fontawesome/fontawesome-webfont.ttf</file>
+        <file>fontawesome/FontAwesome.qml</file>
+        <file>fontawesome/Object.qml</file>
+        <file>fontawesome/qmldir</file>
+        <file>scripts/color.js</file>
+        <file>fonts/Nunito/Nunito-Black.ttf</file>
+        <file>fonts/Nunito/Nunito-BlackItalic.ttf</file>
+        <file>fonts/Nunito/Nunito-Bold.ttf</file>
+        <file>fonts/Nunito/Nunito-BoldItalic.ttf</file>
+        <file>fonts/Nunito/Nunito-ExtraBold.ttf</file>
+        <file>fonts/Nunito/Nunito-ExtraBoldItalic.ttf</file>
+        <file>fonts/Nunito/Nunito-ExtraLight.ttf</file>
+        <file>fonts/Nunito/Nunito-ExtraLightItalic.ttf</file>
+        <file>fonts/Nunito/Nunito-Italic.ttf</file>
+        <file>fonts/Nunito/Nunito-Light.ttf</file>
+        <file>fonts/Nunito/Nunito-LightItalic.ttf</file>
+        <file>fonts/Nunito/Nunito-Regular.ttf</file>
+        <file>fonts/Nunito/Nunito-SemiBold.ttf</file>
+        <file>fonts/Nunito/Nunito-SemiBoldItalic.ttf</file>
+        <file>fonts/Nunito/OFL.txt</file>
+        <file>uix/Notes.qml</file>
+        <file>components/VoiceNoteModel.qml</file>
+    </qresource>
+</RCC>

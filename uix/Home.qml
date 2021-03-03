@@ -89,6 +89,9 @@ Page{
 					circle_anim.stop();
 					
 					application_swipe.currentIndex = 1;
+					application_swipe.currentIndex = Qt.binding(function (){
+						return tab_bar.currentIndex;
+					})
 				}
 			}
 
